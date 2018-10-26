@@ -5,5 +5,5 @@ Given an array of 10 integers numbers generated randomly, find the sum of its el
 
 ## Solutions
 * Python 
- *[Marcelo da Silva](https://github.com/marcelodasilva/challenges-hacktoberfest/blob/master/challenges/1/Python/marcelodasilva.py)
+ * [Marcelo da Silva](https://github.com/marcelodasilva/challenges-hacktoberfest/blob/master/challenges/1/Python/marcelodasilva.py)
 
