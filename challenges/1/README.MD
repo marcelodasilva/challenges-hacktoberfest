@@ -4,5 +4,6 @@
 Given an array of 10 integers numbers generated randomly, find the sum of its elements.
 
 ## Solutions
-* [Marcelo da Silva](www.google.com)
+* Python 
+ *[Marcelo da Silva](https://github.com/marcelodasilva/challenges-hacktoberfest/blob/master/challenges/1/Python/marcelodasilva.py)
 
