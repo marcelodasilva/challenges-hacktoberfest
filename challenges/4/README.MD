@@ -6,5 +6,5 @@ C = (5 * (F-32) / 9)
 
 ## Solutions
 ### Python 
-* [Marcelo da Silva](https://github.com/)
+* [Marcelo da Silva](https://github.com/marcelodasilva/challenges-hacktoberfest/blob/master/challenges/4/Python/marcelodasilva.py)
 
