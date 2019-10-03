@@ -9,4 +9,6 @@ Given an array of 10 integers numbers generated randomly, find the sum of its el
 * [Pedro Pimentel](https://github.com/pedro5/challenges-hacktoberfest/blob/master/challenges/1/Python/pedro5.py)
 ### Rust
 * [PucklaMotzer09](https://github.com/PucklaMotzer09/challenges-hacktoberfest/blob/master/challenges/1/Rust/pucklamotzer09/src/main.rs)
+### Java
+* [ronaldo-melo](https://github.com/AlbertoTKD/challenges-hacktoberfest/blob/master/challenges/1/Java/Challenge1.java)
 
