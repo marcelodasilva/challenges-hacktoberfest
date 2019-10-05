@@ -11,4 +11,6 @@ Given an array of 10 integers numbers generated randomly, find the sum of its el
 * [PucklaMotzer09](https://github.com/PucklaMotzer09/challenges-hacktoberfest/blob/master/challenges/1/Rust/pucklamotzer09/src/main.rs)
 ### Java
 * [ronaldo-melo](https://github.com/AlbertoTKD/challenges-hacktoberfest/blob/master/challenges/1/Java/Challenge1.java)
+### JavaScript
+* [JKarlavige](https://github.com/JKarlavige/challenges-hacktoberfest/blob/master/challenges/1/JavaScript/jkarlavige.js)
 
