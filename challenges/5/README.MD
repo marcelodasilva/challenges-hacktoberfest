@@ -9,4 +9,5 @@ Make a Program that reads 2 numbers and shows the biggest one.
 * [Pedro Pimentel](https://github.com/pedro5/challenges-hacktoberfest/blob/master/challenges/5/Python/pedro5_2.py)
 ### Rust
 * [PucklaMotzer09](https://github.com/PucklaMotzer09/challenges-hacktoberfest/blob/master/challenges/5/Rust/pucklamotzer09/src/main.rs)
-
+### Ruby
+* [goodgodth](https://github.com/goodgodth/challenges-hacktoberfest/blob/master/challenges/5/Ruby/goodgodth.rb)
