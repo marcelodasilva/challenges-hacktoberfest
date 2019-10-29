@@ -9,5 +9,10 @@ Read 5 integers and calculate the arithmetic mean.
 * [Hugo Silva](https://github.com/hugoadriao/challenges-hacktoberfest/blob/master/challenges/2/Python/hugoadriao.py)
 ### Rust
 * [PucklaMotzer09](https://github.com/PucklaMotzer09/challenges-hacktoberfest/blob/master/challenges/2/Rust/pucklamotzer09/src/main.rs)
+
 ### JavaScript
 * [Parinz1234](https://github.com/PucklaMotzer09/challenges-hacktoberfest/blob/master/challenges/2/JavaScript/FiveMean.js)
+
+### Ruby
+* [goodgodth](https://github.com/goodgodth/challenges-hacktoberfest/blob/master/challenges/2/Ruby/goodgodth.rb)
+
