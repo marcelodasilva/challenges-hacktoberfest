@@ -13,6 +13,7 @@ Given an array of 10 integers numbers generated randomly, find the sum of its el
 ### Java
 * [ronaldo-melo](https://github.com/AlbertoTKD/challenges-hacktoberfest/blob/master/challenges/1/Java/Challenge1.java)
 ### JavaScript
+* [Felipe Santos](https://github.com/felipedmsantos95/challenges-hacktoberfest/blob/challenge-01/challenges/1/JavaScript/felipedmsantos95.js)
 * [JKarlavige](https://github.com/JKarlavige/challenges-hacktoberfest/blob/master/challenges/1/JavaScript/jkarlavige.js)
 ### Ruby
 * [goodgodth](https://github.com/goodgodth/challenges-hacktoberfest/blob/master/challenges/1/Ruby/goodgodth.rb)
